@@ -14,9 +14,9 @@ int main(void){
 			printf(" ");
 		}
 		// k prints out the number of hashes
-		for (k = 0; k < ( j + 1); k++ ){
+		for (k = 0; k < ( j + 2); k++ ){
 			printf("#");
 		}
-	printf("#\n");
+	printf("\n");
 	}
 }
